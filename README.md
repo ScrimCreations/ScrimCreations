@@ -1,6 +1,6 @@
-<h1 align="center">Welcome To My Profile</h1>
+<h1 align="center">Welcome To My Profile 👋</h1>
 
-‎ <p align="center">![Dn gif](https://raw.githubusercontent.com/ScrimCreations/ScrimCreations/main/Images/standard.gif) </p>
+<!-- ‎ <p align="center">![Dn gif](https://raw.githubusercontent.com/ScrimCreations/ScrimCreations/main/Images/standard.gif) </p> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ScrimCreations&layout=compact&show_icons=true&theme=radical)]()
